@@ -14,7 +14,7 @@ export default function Home() {
       <div className="flex lg:flex-row flex-col gap-x-8 items-center justify-center my-16 px-8">
         <div className="max-w-3xl">
           <h3 className="font-bold lg:text-6xl text-4xl">What is the UHS 24 Tournament?</h3>
-          <p className="py-8 text-xl">The UHS 24 Tournament, sponsored by the math club, is a free tournament that any UHS member can join. Players will form teams of 2 and compete against each other!</p>
+          <p className="py-8 text-xl">The UHS 24 Tournament, sponsored by the math club, is a free tournament that any UHS member can join. Players will form teams of 2 and compete against each other! <span className="font-bold">There will be prizes!</span></p>
           <a href="https://docs.google.com/spreadsheets/d/1l4HnKvxiFd2SSdJpNsWq72zN5DlHeye7WehgXOec9p0/edit?usp=sharing" target="_blank">
             <button className="border hover:cursor-pointer border-black px-8 py-3 hover:bg-black hover:text-white duration-300">
               Sign up now!
